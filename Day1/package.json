@@ -1,0 +1,21 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel first.html",
+    "build": "parcel build first.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
